@@ -1,6 +1,7 @@
 # Blinkit-dashboard
 
  The dashboard provides a comprehensive overview of key sales metrics and business insights, enabling stakeholders to make data-driven decisions.
+<img width="1033" height="581" alt="BLINKIT dasboard image" src="https://github.com/user-attachments/assets/b336ab41-17fb-4aca-af16-0664de55e00c" />
 
 # 🎯 Key Features
 
