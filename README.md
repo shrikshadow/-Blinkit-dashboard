@@ -29,6 +29,6 @@ Outlet Type & Location: Bar charts and a donut chart provide insights into sales
 
 #🛠️ Technology Stack
 
-Data Visualization Tool: The dashboard was created using Power BI or a similar business intelligence tool.
+Data Visualization Tool: The dashboard was created using EXCEL or a similar business intelligence tool.
 
 Data Source: A structured dataset containing sales records, outlet information, and item details.
