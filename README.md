@@ -1,7 +1,8 @@
 # Blinkit-dashboard
 
  The dashboard provides a comprehensive overview of key sales metrics and business insights, enabling stakeholders to make data-driven decisions.
-<img width="1033" height="581" alt="BLINKIT dasboard image" src="https://github.com/user-attachments/assets/b336ab41-17fb-4aca-af16-0664de55e00c" />
+<img width="1426" height="740" alt="blinkit Dashboard Tableau" src="https://github.com/user-attachments/assets/892a12e4-5ecb-453c-b312-e473b6f6a957" />
+
 
 # 🎯 Key Features
 
@@ -29,6 +30,6 @@ Outlet Type & Location: Bar charts and a donut chart provide insights into sales
 
 #🛠️ Technology Stack
 
-Data Visualization Tool: The dashboard was created using EXCEL or a similar business intelligence tool.
+Data Visualization Tool: The dashboard was created using EXCEL , TABLEAU tool.
 
 Data Source: A structured dataset containing sales records, outlet information, and item details.
